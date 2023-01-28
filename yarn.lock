@@ -3016,9 +3016,9 @@
   integrity sha512-T8LBEB0PQo0N1tZQKZ2K8BGmv+IDLcXkzt8Pn7x0YnwZD6YpCIvKqYM3iy2fJ6wFXeCvRKqpn4K6EqwnkSJAbQ==
 
 "@metamask/object-multiplex@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@metamask/object-multiplex/-/object-multiplex-1.1.0.tgz#6b1507c4d10caafd2ea82dd2a5360b91631e036e"
-  integrity sha512-ImDw5+NdO5qnzmK/rpSlPmQMQm6HIC6wAHdR9nBaDK8TpeuRik5H8DCUcoNrxSeUAk1iHwchZ03lpZu6mZfrdw==
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@metamask/object-multiplex/-/object-multiplex-1.2.0.tgz#38fc15c142f61939391e1b9a8eed679696c7e4f4"
+  integrity sha512-hksV602d3NWE2Q30Mf2Np1WfVKaGqfJRy9vpHAmelbaD0OkDt06/0KQkRR6UVYdMbTbkuEu8xN5JDUU80inGwQ==
   dependencies:
     end-of-stream "^1.4.4"
     once "^1.4.0"
