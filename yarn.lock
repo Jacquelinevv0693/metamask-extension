@@ -3003,9 +3003,9 @@
     secp256k1 "^4.0.2"
 
 "@metamask/logo@^3.1.1":
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/@metamask/logo/-/logo-3.1.1.tgz#0a40bcfc462a70aa2110efc737767ca7ba188fa3"
-  integrity sha512-8/ObOWyBtwbe3/r9QbXMs+aKK2EgcYp2NiF4fm1xIO/c3aBMN5wBc2zUnl1lpHU71l70/OH5cxHbyDYoEgdMoA==
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/@metamask/logo/-/logo-3.1.2.tgz#130a5b463d51520366b2f20115032e92dd80138e"
+  integrity sha512-j35bKtwgjSYHIw77KGokra2qXkuwna8V8YKv5IzNMbT5c6hP2yHy09ycrEgNDLRy3i7pRXnv7WteyoJKLq7ZjA==
   dependencies:
     gl-mat4 "1.1.4"
     gl-vec3 "1.0.3"
